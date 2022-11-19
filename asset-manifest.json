@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.eee1323d.css",
+    "main.js": "/react-gh-pages/static/js/main.fa640e7d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js",
+    "static/media/eagle.png": "/react-gh-pages/static/media/eagle.bf12d770ea704ed778f2.png",
+    "static/media/michael.png": "/react-gh-pages/static/media/michael.b8febfff2dfc89bfa74a.png",
+    "static/media/chris.png": "/react-gh-pages/static/media/chris.ef21496ce7feeb54e173.png",
+    "static/media/matt.png": "/react-gh-pages/static/media/matt.45e0842cf0397e68932d.png",
+    "static/media/seo.svg": "/react-gh-pages/static/media/seo.dbf3febdc05d20a8523f0e0b58a5e4ca.svg",
+    "static/media/pinterest.svg": "/react-gh-pages/static/media/pinterest.0db582eca3c329b1e17d25bd1cbbc1e8.svg",
+    "static/media/twitter.svg": "/react-gh-pages/static/media/twitter.dda05b21f4b0f4ed752f7f7a49b09d38.svg",
+    "static/media/photography.svg": "/react-gh-pages/static/media/photography.3d89c4bf37bc69ef50b8d491d4aa4e63.svg",
+    "static/media/instagram.svg": "/react-gh-pages/static/media/instagram.11c0f1dec245a37de62bde19bf9e2e53.svg",
+    "static/media/digital.svg": "/react-gh-pages/static/media/digital.c38b6cd937c2aa770fdbf67dc3520945.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "static/media/home.svg": "/react-gh-pages/static/media/home.bce71ab53b5fd9c6865b9e5a87977323.svg",
+    "static/media/shopping-card.svg": "/react-gh-pages/static/media/shopping-card.d7fd7be609a1f295bf0cab18b6268508.svg",
+    "static/media/creativity.svg": "/react-gh-pages/static/media/creativity.ac79162c332e34614c5a91dfacc4842f.svg",
+    "static/media/webDesign.svg": "/react-gh-pages/static/media/webDesign.f9365a6d00a83e92ece4d00d9a67576e.svg",
+    "static/media/search.svg": "/react-gh-pages/static/media/search.21f382daef0a7886084850b128358f4a.svg",
+    "static/media/facebook.svg": "/react-gh-pages/static/media/facebook.a7728f3a930202572104c1b8ac86414f.svg",
+    "main.eee1323d.css.map": "/react-gh-pages/static/css/main.eee1323d.css.map",
+    "main.fa640e7d.js.map": "/react-gh-pages/static/js/main.fa640e7d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eee1323d.css",
+    "static/js/main.fa640e7d.js"
+  ]
+}
