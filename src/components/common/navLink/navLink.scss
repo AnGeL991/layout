@@ -1,0 +1,24 @@
+@import '../../../styles/variables.scss';
+
+.navLink {
+	height: 40px;
+	margin: 0 20px;
+	transition: 0.3s linear border;
+	text-transform: uppercase;
+	font-size: 14px;
+	font-weight: 400;
+	padding: 12px 0;
+	border-color: transparent;
+	border-width: 3px;
+	a {
+		text-decoration: none;
+		color: $color-white;
+		transition: 0.3s linear all;
+	}
+	&:hover {
+		border-bottom: 3px solid $color-yellow;
+		a {
+			color: $color-yellow;
+		}
+	}
+}

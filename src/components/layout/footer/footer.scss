@@ -1,0 +1,21 @@
+@import '../../../styles/variables.scss';
+
+.footer {
+	margin: 0 auto;
+	max-width: 1200px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-top: 1px solid $color-footer-border;
+	padding: 8px 0;
+	grid-area: footer;
+	width: 100%;
+	&--copy {
+		font-size: 14px;
+		color: $color-text;
+		font-weight: 400;
+		&-pink {
+			color: $color-pink;
+		}
+	}
+}

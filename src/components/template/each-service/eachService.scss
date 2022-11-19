@@ -1,0 +1,26 @@
+@import '../../../styles/variables.scss';
+
+.eachService {
+	width: calc(100% / 3);
+	padding: 15px;
+	display: flex;
+	flex-direction: row;
+	gap: 30px;
+	font-weight: 400;
+	font-size: 14px;
+	&--icon {
+		margin-bottom: 5px;
+	}
+	&--info {
+		padding-top: 24px;
+	}
+	&--title {
+		text-transform: uppercase;
+		color: $color-text;
+		margin-bottom: 14px;
+	}
+
+	&--description {
+		color: $color-text-gray;
+	}
+}

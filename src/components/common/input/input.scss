@@ -1,0 +1,17 @@
+@import '../../../styles/variables.scss';
+
+.input {
+	height: 40px;
+	width: 230px;
+	background-color: $color-white;
+	border: 1px solid $color-border-light;
+	font-size: 15px;
+	line-height: 24px;
+	font-weight: 300;
+	outline: none;
+	text-indent: 14px;
+	&::placeholder {
+		font-style: italic;
+		color: $color-text-light;
+	}
+}
