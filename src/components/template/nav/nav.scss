@@ -9,12 +9,14 @@
 .mobileNav {
 	&--wrapper {
 		position: relative;
+		order:2;
 	}
 
 	&--popup {
 		position: absolute;
 		background-color: $color-text;
 		top: 30px;
+		left: -100px;
 		transition: 0.3s linear all;
 		opacity: 0;
 		visibility: hidden;
