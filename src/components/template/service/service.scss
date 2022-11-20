@@ -11,3 +11,17 @@
 		flex-wrap: wrap;
 	}
 }
+
+@media (max-width: 900px) {
+	.service {
+		padding: 20px;
+	}
+}
+
+@media (max-width: 600px) {
+	.service {
+		&--context {
+			flex-direction: column;
+		}
+	}
+}

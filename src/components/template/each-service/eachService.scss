@@ -24,3 +24,15 @@
 		color: $color-text-gray;
 	}
 }
+
+@media (max-width: 900px) {
+	.eachService {
+		width: 50%;
+	}
+}
+
+@media (max-width: 600px) {
+	.eachService {
+		width: 100%;
+	}
+}

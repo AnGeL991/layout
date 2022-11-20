@@ -14,3 +14,11 @@
 		text-align: center;
 	}
 }
+
+@media (max-width: 1024px) {
+	.ourTeam {
+		&--description {
+			padding: 0 20px;
+		}
+	}
+}

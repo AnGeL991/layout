@@ -27,14 +27,14 @@ const members: TeamMemberProps[] = [
 	},
 	{
 		image: Michael,
-		name: 'Michael Fertig ',
+		name: 'Michael Fertig',
 		profession: 'Developer',
 		style: { transform: 'translate(-27%,0%)' },
 	},
 ];
 
 export const Members: FC = () => {
-	const displayMembers = members.map((member) => <TeamMember {...member} />);
+	const displayMembers = members.map((member, index) => <TeamMember key={index} {...member} />);
 
 	return <div className="members">{displayMembers}</div>;
 };

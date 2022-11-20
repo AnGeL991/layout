@@ -22,3 +22,22 @@
 		}
 	}
 }
+
+@media (max-width: 768px) {
+	.navLink {
+		width: 100%;
+		width: 120px;
+		text-align: center;
+		border-bottom: 1px solid $color-aqua;
+		margin: 0;
+		&:last-of-type {
+			border-bottom: none;
+		}
+
+		&:hover {
+			a {
+				color: $color-aqua;
+			}
+		}
+	}
+}
